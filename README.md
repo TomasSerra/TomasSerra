@@ -1,8 +1,8 @@
 <h1>Hi, I'm Tomás Serra</h1>
 <h2>My Github Stats</h2>
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasSerra&count_private=true&show_icons=true&theme=dark" style="margin-right: 50px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSerra&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TomasSerra&count_private=true&show_icons=true&theme=dark" height="150px" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSerra&layout=compact" height="150px" width="auto"/>
 </div>
 <h2>Languages</h2>
 <h3>Frontend</h3>
